@@ -1,2 +1,2 @@
-# divya
+# Divya
 projects
